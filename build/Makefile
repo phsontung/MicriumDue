@@ -1,6 +1,6 @@
 #!/usr/bin/make
 # makefile for the arduino due.
-#
+#Author : Tung Pham <phsontung@gmail.com>
 
 
 #user specific settings:
